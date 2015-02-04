@@ -1,0 +1,22 @@
+{
+	"professors": [
+		{
+			"name": "Doug Engelbart"
+		},
+		{
+			"name": "Ivan Sutherland"
+		},
+		{
+			"name": "Lucy Suchman"
+		},
+		{
+			"name": "Vannevar Bush"
+		},
+		{
+			"name": "Grace Hopper"
+		},
+		{
+			"name": "Allen Newell"
+		}
+	]
+}
