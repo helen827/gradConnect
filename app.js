@@ -8,7 +8,7 @@ var http = require('http');
 var path = require('path');
 var handlebars = require('express3-handlebars')
 
-var clinicalprofessors = require('./routes/clinicalprofessors');
+var linguisticsprofessors = require('./routes/linguisticsprofessors');
 // Example route
 // var user = require('./routes/user');
 
@@ -35,7 +35,7 @@ if ('development' == app.get('env')) {
 }
 
 // Add routes here
-app.get('/clinicalprofessors', clinicalprofessors.view);
+app.get('/linguisticsprofessors', linguisticsprofessors.view);
 // Example route
 // app.get('/users', user.list);
 
